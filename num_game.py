@@ -10,3 +10,9 @@ import random
 
 
       if guess==secret_number:
+          print("congratulations! you guessed it right!")
+        
+
+      break
+  elif guess < secret_number:
+
