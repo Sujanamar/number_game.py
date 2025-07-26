@@ -6,10 +6,10 @@ import random
   print("guess the number (between 1 and 10):")
 
   while True:
-      guess=int(input("your guess:"))
+      guess==int(input("your guess:"))
 
 
-      if guess==secret_number:
+      if guess = secret_number:
           print("congratulations! you guessed it right!")
         
 
