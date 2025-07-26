@@ -20,3 +20,5 @@ import random
   else:
       print("too high.try again.")
 
+
+this is a simple python code
