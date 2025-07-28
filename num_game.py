@@ -17,8 +17,8 @@ import random;
 
       break
   elif guess < secret_number:
-      print("too high.try again.")
+      print("too low.try again.")
 
   else:
-      print("too low.try again.")
+      print("too high.try again.")
 
