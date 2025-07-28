@@ -19,8 +19,6 @@ import random;
   elif guess < secret_number:
       print("too high.try again.")
 
-
-added on 24th july
   else:
       print("too low.try again.")
 
