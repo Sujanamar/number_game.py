@@ -22,3 +22,4 @@ import random;
   else:
       print("too high.try again.")
 
+added on 24th july
